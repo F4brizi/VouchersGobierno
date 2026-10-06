@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.tmp
+*.log
+vch_api.js
+vch_main.js
